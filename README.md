@@ -4,7 +4,6 @@ DS/DA from Moscow, Russia
 22 years old
 
 ## 🚀 About me:
-- 🏤 Moscow Aviation Institute student
 - 💻 Data Analyst in Alfa Bank
 - 🧠 Passionate about ML & Deep Learning
 - 🔭 I'm currently learning `RecSys & NLP`
